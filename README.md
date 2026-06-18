@@ -96,7 +96,7 @@ python3 clean_txt.py
 
 ## 📝 License
 
-MIT License - Free for everyone
+Non Commercial License - Free for everyone for private use 
 
 ---
 
