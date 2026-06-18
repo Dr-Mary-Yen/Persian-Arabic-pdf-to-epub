@@ -102,7 +102,8 @@ MIT License - Free for everyone
 
 ## 💬 Support
 
-]
+نیاز کمک؟ Issue بسازید!
+
 ---
 
 **Made with ❤️ by Maryam Mobayen**
